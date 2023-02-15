@@ -1,0 +1,1 @@
+$(".single-slide").slick({arrows:!1,dots:!0}),$(".multiple-items").slick({infinite:!0,slidesToShow:2,slidesToScroll:1,infinite:!1,responsive:[{breakpoint:650,settings:{slidesToShow:1}}]});
